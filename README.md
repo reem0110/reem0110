@@ -8,7 +8,7 @@ IT & Business College, Alatoo International University (AIU)
 
 ### Significant Projects
 
-
+---
 
 **1. Custom CRM System for Construction Materials Business (PyQt6 + Firebase + SQLite)**
 
