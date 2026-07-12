@@ -8,7 +8,7 @@ IT & Business College, Alatoo International University (AIU)
 
 ### Significant Projects
 
----
+
 
 **1. Custom CRM System for Construction Materials Business (PyQt6 + Firebase + SQLite)**
 
@@ -53,7 +53,6 @@ IT & Business College, Alatoo International University (AIU)
   - Achieved reliable obstacle detection within a 4-meter range
   - Response time under 200ms for immediate hazard alerts
   - Demonstrated stable performance through rigorous indoor/outdoor testing
-- **Evidence:** Photos of hardware assembly, circuit diagrams, and app interface available in README
 
 ---
 
